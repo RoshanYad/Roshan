@@ -36,7 +36,7 @@
 						<muleVersion>4.3.0</muleVersion>
 						<username>roshanyadav</username>
 						<password>Aa312414</password>
-						<applicationName>april2task</applicationName>
+						<applicationName>april2taskhello</applicationName>
 						<environment>Sandbox</environment>
 						<region>us-east-1</region>
 						<workers>1</workers>
