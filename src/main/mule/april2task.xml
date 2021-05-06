@@ -16,10 +16,10 @@ http://www.mulesoft.org/schema/mule/ee/core http://www.mulesoft.org/schema/mule/
 output application/json
 ---
 
-{
+
 	myString:("hello" ++ "world")
 	
-	}]]></ee:set-payload>
+	]]></ee:set-payload>
 			</ee:message>
 		</ee:transform>
 	</flow>
